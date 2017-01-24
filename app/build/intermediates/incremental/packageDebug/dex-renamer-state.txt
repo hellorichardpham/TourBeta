@@ -1,0 +1,7 @@
+#Mon Jan 23 16:28:28 PST 2017
+base.0=C\:\\Users\\Ju Lu\\Documents\\GitHub\\gotchobooks\\TourBeta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_000ed119f31f73756e4d94a69f8c1c1d3ad6c527
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Ju Lu\\Documents\\GitHub\\gotchobooks\\TourBeta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_675d94bc5c453d86ef636a10cb989612293874f2\\classes.dex
+base.1=C\:\\Users\\Ju Lu\\Documents\\GitHub\\gotchobooks\\TourBeta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_675d94bc5c453d86ef636a10cb989612293874f2
+file.0=C\:\\Users\\Ju Lu\\Documents\\GitHub\\gotchobooks\\TourBeta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_000ed119f31f73756e4d94a69f8c1c1d3ad6c527\\classes.dex

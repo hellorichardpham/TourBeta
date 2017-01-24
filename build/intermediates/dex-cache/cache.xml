@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_60e56766a6cc199e55daff44168077cc641360ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_40817b86a99c2036f3297c00e19eae619bad2a0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_51ab30143fbff50b8779a9626e6d377c1c44e7c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_83b5fad2d8dc788c6065d4bcebf79fb7c507ec32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_1afc4333000e2a40ca4053835c88ed690dfe043b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_c98bb8ab7c73e96d6b735a9709d391e3c7ef8910\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_627ad3544f7d960312e1de0d32cacea9ca8cfcf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_3bc52ef2362d765b0019bba59f11411f7d02111e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70722cdadd91f061e97e449216c55294b214ddea">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_000ed119f31f73756e4d94a69f8c1c1d3ad6c527\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_c807e30c7cf279b8b07acecc25f846ab7b79ff52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_b32e3edc92c2e6b02e321cfed68e9dd075216b7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_07fca606e65ba79dc4c5ddf1c708267643e033ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_028d06e00846a70f4146adb3aad1ecb985b238f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_a1f3321f675459c6d0230900a9dd2cd9303e4eae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_f0e8f6cc8357147dac1240e5c28e2d9095d36c41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_68f1f60c55de484100f7afd39176d4b9822e91c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_e84d2256bd09a47b8e29ca615f7a896ccfcfa5d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_197839662eb5cb2a733d4857c9470a59bd3c9643\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_65c519ea123af85709709844a9341bb0405dcd77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_f4c4ab6f4eedcb1fe6cb92ac1802b04ec13e5bad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_ec13796263f1baa5a1f5ee207cdbe1ac4108f406\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a424528241b1290b22383f8f953f0c0594ca1eb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_44d3337d5c9314784431f157898f064a2ede9a76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_5b69d3fdcdfc987a19271526a65dd3a6be284f93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_64475f5eca7033f0d475b245053cbae5d343b744\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_f9b4c1dd450cd04b3ad0b9631b5cc87adb2205a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_c3f9c74c676486b55781d9a3fe34c01dbc1c2457\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_2fc1748dc237fe700fce18a336f00454013fa498\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_c5c64aa67e5199d7be3f0e45147262ada876ab8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_7f1377b9198c41ab56dac5e2433e2eeb5004d343\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_e3c0d12b6369eefebfc28f9db4220171feb275d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_501fc6d709a628948b2f9d10bdffe152a719de31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_7186d4cd4e2af3a514267211c3022de263d52504\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_94020e2e2d0709cda8cb9b5542185735dd662c2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_c1a828653182b42a0abca9f3f7ad954e8983cb75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_fc1beba8a375d6a68acb74b507ebf3b460473300\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_db62bec9d70b3b845ec4efc3f201a85de38532d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_a42e104a0a852ee60a78725b9f623f0f267a3ea6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_a21fa1b143a9fa5d2727caaff07aa0602031248d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_22938683e00fbdc89bd16d449d0a11b6f706ef23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_68871d1919db3eb45eea0fadd9ed0d0f6106f40a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_4565b9ac062c6777636ebd304e78c320086daf52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_4a350abb811d7fac7ead62da9b7baa3efa532b27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_ba1f5819749a85d35f75ec4e7ee409ca21d5f7f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_1bd1d5b3c8fe7b640df3404b09a67d472f8cd04b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_e1e4bbdf760dd1077cbfcb7d564cb018f4f6091f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_01ab2122d71db2a43f635a3ad4d1ef41ff21b1f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_a62cda2f51c94c57dbd752bb359f607985f0714c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_4eee06ca31079dcc3ff9a979a43c397111eec832\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_256ee228bd8ca07bedb96dbc887f34b376fc56cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_92e6272e2e216b8ba8e09440f9e0f23c21eb3a5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_90831abe26a2859214b4c919cb4ff5ceef6fb48e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_4674c2e7488f315759944f326ab9b86c490c72a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_e6448ccdf6b23ed2de3d8beefaed78e8d557d96d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_4bf17cd76a27a15eaf1fc27bc11890eafc07e193\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_e5dea48b5d400b907ac265d27851198dac12e69c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_134b4cb4001b9db72844d2ed2270fa4db6983846\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_8b0a0e82575721b16c51e7965a305c9d96a2f68a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_4538fed510ebad551d748d18cfb7e7c247d4d852\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_cd3b44d79125ed00b81b209e91911e875b6bb297\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_1719920ea18092a31f6e334a52835fb020c4eb95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_a513071d0bb0047f3adfe1b473f09cd390c3128c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_a65a8915bcb85f1003d4ef3a65ebbe4cf337a503\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_e7bcded47a9ec2e3c9a99546d1c111f7943b044c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_cd2beecc4edc7b16c0fe4149ad8b74f3db1484be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_76ac97b72069921574655c9f67fdb4d1aa441eba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c70aa99bc3e99176d631d2bb94f2f3f8d88b57e">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_675d94bc5c453d86ef636a10cb989612293874f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Ju Lu\Documents\GitHub\gotchobooks\TourBeta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_9bb9412cdd54435e8244bb04076cabd15ed694f7\classes.dex" />
+    </item>
+
+</items>
